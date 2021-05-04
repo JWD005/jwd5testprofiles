@@ -1,4 +1,9 @@
 # jwd5testprofiles
-#
-# learned Fork & Pull
-# added personal profile 
+# Git & Github workflow
+# Fork & Pull
+
+did first Fork & Pull
+by adding personal profile 
+Experienced the Git/Github workflow
+
+
